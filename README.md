@@ -4,8 +4,7 @@ This repository contains the Python script used in the article:
 
 **Baiges-Gaya G, Iftimie S, Castañé H, Rodríguez-Tomàs E, Jiménez-Franco A, López-Azcona AF, Castro A, Camps J, Joven J.**  
 *Combining semi-targeted metabolomics and machine learning to identify metabolic alterations in serum and urine of hospitalized patients with COVID-19.*  
-Biomolecules 2022, 12(8), 2086203. https://doi.org/10.3390/biom13010163
----
+Biomolecules 2022, 12(8), 2086203
 
 ## 📖 Overview
 The script implements a **Gradient Boost Machine (GBM)** classifier to identify metabolites with the highest capacity to discriminate between:
